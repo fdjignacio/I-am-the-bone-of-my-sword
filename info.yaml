@@ -26,12 +26,12 @@ pinout:
   ui[7]: ""
 
   # Outputs
-  uo[0]: ""
-  uo[1]: ""
-  uo[2]: ""
-  uo[3]: ""
-  uo[4]: ""
-  uo[5]: ""
+  uo[0]: "LCD_RS"
+  uo[1]: "LCD_E"
+  uo[2]: "LCD_D4"
+  uo[3]: "LCD_D5"
+  uo[4]: "LCD_D6"
+  uo[5]: "LCD_D7"
   uo[6]: ""
   uo[7]: ""
 
