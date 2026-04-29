@@ -37,3 +37,15 @@ The GitHub action will automatically fetch the digital netlist from Wokwi and bu
   - Mastodon [#tinytapeout](https://chaos.social/tags/tinytapeout) [@matthewvenn](https://chaos.social/@matthewvenn)
   - X (formerly Twitter) [#tinytapeout](https://twitter.com/hashtag/tinytapeout) [@tinytapeout](https://twitter.com/tinytapeout)
   - Bluesky [@tinytapeout.com](https://bsky.app/profile/tinytapeout.com)
+
+## Who am I?
+
+- The bone of my sword.
+- Steel is my body.
+- Fire is my blood.
+- I have created over a thousand blades.
+- Unknown to Death, nor known to Life.
+- Have withstood pain to create many weapons.
+- Yet those hands will never hold anything.
+- So, as I pray
+- UNLIMITED BLADE WORKS!
